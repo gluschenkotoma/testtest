@@ -72,7 +72,8 @@ img {
 
 /* картинка свг */
 .network-list__icon {
-  fill: white;
+  width: 44px;
+  height: 44px;
 }
 // =============================
 /* team */
@@ -149,4 +150,8 @@ img {
   .team-list > .team-list__item + .team-list__item {
     margin-left: 30px;
   }
+}
+.modal-footer__icon {
+  width: 100px;
+  height: 100px;
 }
