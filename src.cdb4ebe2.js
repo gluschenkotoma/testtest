@@ -20,4 +20,4 @@ module.exports=[{image:"/oleg.09ee7db2.jpg",name:"Oleg Bondarenko",description:"
 },{"../templates/modal-footer.hbs":"obV1","../data/footer-team.json":"GSGM"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/footer"),require("./js/modal-footer"),require("./js/team");
 },{"./sass/main.scss":"clu1","./js/footer":"b5Ik","./js/modal-footer":"hhFr","./js/team":"ZxpD"}]},{},["Focm"], null)
-//# sourceMappingURL=/testtest/src.570ed5c3.js.map
+//# sourceMappingURL=/testtest/src.cdb4ebe2.js.map
