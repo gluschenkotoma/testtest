@@ -10,7 +10,7 @@
     "workedOn": "Team Lead"
   },
   {
-    "image": "./anna.1657b598.jpg",
+    "image": "/anna.1657b598.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
@@ -20,7 +20,7 @@
     "workedOn": ""
   },
   {
-    "image": "/marina.2430631d.jpg",
+    "image": "./marina.2430631d.jpg",
     "name": "Marina Tripetska",
     "description": "photo Marina Tripetska",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
@@ -30,7 +30,7 @@
     "workedOn": "Header"
   },
   {
-    "image": "/evgenia.de726f52.jpg",
+    "image": "/evgeniya.b3a2bb58.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",

@@ -55,8 +55,7 @@ img {
 }
 .team__image {
   //   object-fit: cover;
-  //   width: 160px;
-  //   height: 260px;
+  //
   //   object-fit: contain;
 }
 .team__thumb {
@@ -119,4 +118,7 @@ img {
   .team-list > .team-list__item + .team-list__item {
     margin-left: 30px;
   }
+}
+.team__image {
+  display: flex;
 }
