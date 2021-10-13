@@ -1,0 +1,82 @@
+[
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#icon-linkedin",
+    "githubIcon": "./images/sprite.svg#icon-github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  },
+  {
+    "image": "./images/demo.jpg",
+    "name": "Oleg Bondarenko",
+    "description": "photo Oleg Bondarenko",
+    "linkedIcon": "./images/sprite.svg#linkedin",
+    "githubIcon": "./images/sprite.svg#github",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "workedOn": "Team Lead"
+  }
+]

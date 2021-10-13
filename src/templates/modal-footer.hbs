@@ -1,0 +1,29 @@
+<li class='team-list__item'>
+  <article class='team'>
+    <picture>
+      <img src={{image}} alt={{description}} />
+    </picture>
+
+    <div class='team__thumb'>
+      <h3 class='team__name'>{{name}}</h3>
+      <p class='team__position'>{{workedOn}}</p>
+
+      <ul class='list network-list'>
+        <li class='network-list__item'>
+          <a class='link network-list__link' href={{linkedin}} target='_blank' rel='noopener noreferre'>
+            <svg class='network-list__icon' width='20px' height='20px'>
+              <use href={{linkedIcon}}></use>
+            </svg>
+          </a>
+        </li>
+         <li class='network-list__item'>
+          <a class='link network-list__link' href={{github}} target='_blank' rel='noopener noreferre'>
+            <svg class='network-list__icon' width='20px' height='20px'>
+              <use href={{githubIcon}}></use>
+            </svg>
+          </a>
+        </li>
+        
+    </div>
+  </article>
+</li>
