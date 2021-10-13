@@ -46,8 +46,9 @@ img {
 .network-list {
   display: flex;
   justify-content: center;
-  color: black;
-  background-color: white;
+  margin-top: 0;
+  margin-bottom: 10px;
+
   & > .network-list__item + .network-list__item {
     margin-left: 10px;
   }
@@ -58,7 +59,6 @@ img {
   align-items: center;
   width: 44px;
   height: 44px;
-  border-radius: 50%;
 
   transition: color var(--transit-time) var(--timing),
     background-color var(--transit-time) var(--timing);
@@ -70,12 +70,12 @@ img {
   }
 }
 
-/* картинка свг */
 .network-list__icon {
   width: 44px;
   height: 44px;
 }
 // =============================
+
 /* team */
 
 .team {
@@ -83,16 +83,14 @@ img {
   border-radius: 3px;
   border-color: $genreColor;
   border-style: solid;
-
   background-color: transparent;
 }
 .team__thumb {
-  padding-top: 30px;
-  padding-bottom: 24px;
   text-align: center;
 }
 
 .team__name {
+  margin-top: 10px;
   margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
@@ -102,8 +100,8 @@ img {
 }
 
 .team__position {
-  margin-bottom: 16px;
-
+  margin-top: 0;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -114,7 +112,7 @@ img {
 // }
 @media screen and (max-width: 767px) {
   .team-list__item:not(:last-child) {
-    margin-bottom: 30px;
+    // margin-bottom: 30px;
   }
 }
 
@@ -143,15 +141,8 @@ img {
     margin-left: 30px;
     margin-top: 30px;
   }
-  .team__thumb {
-    padding-bottom: 30px;
-  }
 
   .team-list > .team-list__item + .team-list__item {
     margin-left: 30px;
   }
-}
-.modal-footer__icon {
-  width: 100px;
-  height: 100px;
 }
