@@ -22,7 +22,7 @@ img {
   --bgc-color: #2f303a;
   --bgc-svg: #f5f4fa;
   --bgc-position: rgba(47, 48, 58, 0.8);
-  --bgc-position-portfolio: rgba(33, 150, 243, 0.9);
+  --bgc-position-portfolio: #2094f3e6;
   --third-bg-color: #f5f4fa;
   --secondary-bg-color: #e5e5e5;
   --adress-text: rgba(255, 255, 255, 0.6);
@@ -65,14 +65,14 @@ img {
 
   &:hover,
   &:focus {
-    color: var(--title-text-color);
-    background-color: var(--accent-text-color);
+    color: $footer-background-color;
+    background-color: $genreColor;
   }
 }
 
 /* картинка свг */
 .network-list__icon {
-  fill: currentColor;
+  fill: white;
 }
 // =============================
 /* team */

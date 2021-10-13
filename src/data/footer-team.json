@@ -1,82 +1,82 @@
 [
   {
-    "image": "./images/demo.jpg",
+    "image": "",
     "name": "Oleg Bondarenko",
     "description": "photo Oleg Bondarenko",
     "linkedIcon": "./images/sprite.svg#icon-linkedin",
     "githubIcon": "./images/sprite.svg#icon-github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
+    "linkedin": "",
+    "github": "",
     "workedOn": "Team Lead"
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
-    "linkedIcon": "./images/sprite.svg#linkedin",
-    "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "image": "images/team/marina.jpg",
+    "name": "Marina Tripetska",
+    "description": "photo Marina Tripetska",
+    "linkedIcon": "./images/sprite.svg#icon-linkedin",
+    "githubIcon": "./images/sprite.svg#icon-github",
+    "linkedin": "https://goit-hw33514.slack.com/archives/D02GWRHEQF4/p1634108744000200",
+    "github": "https://goit-hw33514.slack.com/archives/D02GWRHEQF4/p1634108759000400",
+    "workedOn": "Header"
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
+    "image": "./images/team/marina.jpg",
+    "name": "name",
+    "description": "photo name",
     "linkedIcon": "./images/sprite.svg#linkedin",
     "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "linkedin": "",
+    "github": "",
+    "workedOn": ""
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
+    "image": "./images/team/marina.jpg",
+    "name": "name",
+    "description": "photo name",
     "linkedIcon": "./images/sprite.svg#linkedin",
     "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "linkedin": "",
+    "github": "",
+    "workedOn": ""
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
+    "image": "./images/team/marina.jpg",
+    "name": "name",
+    "description": "photo name",
     "linkedIcon": "./images/sprite.svg#linkedin",
     "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "linkedin": "",
+    "github": "",
+    "workedOn": ""
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
+    "image": "./images/team/marina.jpg",
+    "name": "name",
+    "description": "photo name",
     "linkedIcon": "./images/sprite.svg#linkedin",
     "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "linkedin": "",
+    "github": "",
+    "workedOn": ""
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
+    "image": "./images/team/marina.jpg",
+    "name": "name",
+    "description": "photo name",
     "linkedIcon": "./images/sprite.svg#linkedin",
     "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "linkedin": "",
+    "github": "",
+    "workedOn": ""
   },
   {
-    "image": "./images/demo.jpg",
-    "name": "Oleg Bondarenko",
-    "description": "photo Oleg Bondarenko",
+    "image": "./images/team/marina.jpg",
+    "name": "name",
+    "description": "photo name",
     "linkedIcon": "./images/sprite.svg#linkedin",
     "githubIcon": "./images/sprite.svg#github",
-    "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/",
-    "workedOn": "Team Lead"
+    "linkedin": "",
+    "github": "",
+    "workedOn": ""
   }
 ]
