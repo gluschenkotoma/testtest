@@ -53,10 +53,15 @@ img {
   border-color: #2094f3e6;
   border-style: solid;
 }
+
+.team__box-image {
+  height: 220px;
+}
 .team__image {
-  //   object-fit: cover;
-  //
-  //   object-fit: contain;
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 .team__thumb {
@@ -119,7 +124,4 @@ img {
   .team-list > .team-list__item + .team-list__item {
     margin-left: 30px;
   }
-}
-.team__image {
-  display: flex;
 }
