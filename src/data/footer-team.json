@@ -1,6 +1,6 @@
 [
   {
-    "image": "/oleg.09ee7db2.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "Oleg Bondarenko",
     "description": "photo Oleg Bondarenko",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
@@ -10,17 +10,17 @@
     "workedOn": "Team Lead"
   },
   {
-    "image": "/anna.1657b598.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
     "githubIcon": "/sprite.5ec50489.svg#icon-github",
     "linkedin": "",
     "github": "",
-    "workedOn": ""
+    "workedOn": "workedOn"
   },
   {
-    "image": "./marina.2430631d.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "Marina Tripetska",
     "description": "photo Marina Tripetska",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
@@ -30,55 +30,55 @@
     "workedOn": "Header"
   },
   {
-    "image": "/evgeniya.b3a2bb58.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
     "githubIcon": "/sprite.5ec50489.svg#icon-github",
     "linkedin": "",
     "github": "",
-    "workedOn": ""
+    "workedOn": "workedOn"
   },
 
   {
-    "image": "/taras.c3ff9c26.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
     "githubIcon": "/sprite.5ec50489.svg#icon-github",
     "linkedin": "",
     "github": "",
-    "workedOn": ""
+    "workedOn": "workedOn"
   },
   {
-    "image": "/tamara.01d51fa9.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
     "githubIcon": "/sprite.5ec50489.svg#icon-github",
     "linkedin": "",
     "github": "",
-    "workedOn": ""
+    "workedOn": "workedOn"
   },
   {
-    "image": "/julia.01faf20f.jpg",
+    "image": "/img.07c824bb.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
     "githubIcon": "/sprite.5ec50489.svg#icon-github",
     "linkedin": "",
     "github": "",
-    "workedOn": ""
+    "workedOn": "workedOn"
   },
 
   {
-    "image": "",
+    "image": "/img.07c824bb.jpg",
     "name": "name",
     "description": "photo name",
     "linkedIcon": "/sprite.5ec50489.svg#icon-linkedin",
     "githubIcon": "/sprite.5ec50489.svg#icon-github",
     "linkedin": "",
     "github": "",
-    "workedOn": ""
+    "workedOn": "workedOn"
   }
 ]
