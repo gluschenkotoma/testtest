@@ -14,34 +14,6 @@ img {
   list-style: none;
 }
 
-:root {
-  --main-text-color: #212121;
-  --accent-text-color: #2196f3;
-  --additional-text-color: #757575;
-  --title-text-color: #ffffff;
-  --bgc-color: #2f303a;
-  --bgc-svg: #f5f4fa;
-  --bgc-position: rgba(47, 48, 58, 0.8);
-  --bgc-position-portfolio: #2094f3e6;
-  --third-bg-color: #f5f4fa;
-  --secondary-bg-color: #e5e5e5;
-  --adress-text: rgba(255, 255, 255, 0.6);
-  --button-color: #f5f4fa;
-  --icon-color: #afb1b8;
-
-  --main-fonts: 'Roboto', sans-serif;
-  --second-font: 'Raleway', sans-serif;
-
-  --margin: 50px;
-  --card-set-gap: 30px;
-  --card-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
-    0px 2px 1px rgba(0, 0, 0, 0.2);
-
-  --timing: cubic-bezier(0.4, 0, 0.2, 1);
-  --transit-time: 250ms;
-  --form-color: rgba(117, 117, 117, 0.5);
-  --input-border: 1px solid rgba(33, 33, 33, 0.2);
-}
 //======================cociallinks==========================
 .network-list {
   display: flex;
@@ -59,14 +31,11 @@ img {
   align-items: center;
   width: 44px;
   height: 44px;
-
-  transition: color var(--transit-time) var(--timing),
-    background-color var(--transit-time) var(--timing);
+  fill: currentcolor;
 
   &:hover,
   &:focus {
-    color: $footer-background-color;
-    background-color: $genreColor;
+    fill: #2094f3e6;
   }
 }
 
@@ -81,7 +50,7 @@ img {
 .team {
   box-shadow: 30px;
   border-radius: 3px;
-  border-color: $genreColor;
+  border-color: #2094f3e6;
   border-style: solid;
   background-color: transparent;
 }
