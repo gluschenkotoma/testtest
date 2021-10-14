@@ -41,7 +41,10 @@ img {
     height: 40px;
   }
 }
-
+//
+//
+//
+//
 /* team */
 
 .team {
@@ -50,9 +53,29 @@ img {
   border-color: #2094f3e6;
   border-style: solid;
 
+  &__box-image:hover::before {
+    opacity: 1;
+  }
   &__box-image {
+    position: relative;
+    overflow: hidden;
     height: 200px;
   }
+
+  &__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(32, 148, 243, 0.8);
+
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
   &__image {
     display: block;
     height: 100%;
@@ -75,12 +98,28 @@ img {
   }
 
   &__position {
-    font-size: 12px;
+    position: absolute;
+    font-size: 14px;
+    color: $txtColorWhite;
+    font-weight: 500;
     margin-top: 0;
     margin-bottom: 8px;
-    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    opacity: 0;
+    transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 250ms;
   }
 }
+.team:hover .team__overlay {
+  transform: translateX(0);
+  opacity: 1;
+}
+.team:hover .team__position {
+  opacity: 1;
+}
+// ==========
 
 @media screen and (max-width: 480px) {
   .team-container img {
